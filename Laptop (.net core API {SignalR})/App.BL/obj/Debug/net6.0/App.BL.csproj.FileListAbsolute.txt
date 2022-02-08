@@ -1,0 +1,15 @@
+E:\ASP Project\Laptop (.net core API {SignalR})\App.BL\bin\Debug\net6.0\App.BL.deps.json
+E:\ASP Project\Laptop (.net core API {SignalR})\App.BL\bin\Debug\net6.0\App.BL.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\App.BL\bin\Debug\net6.0\App.BL.pdb
+E:\ASP Project\Laptop (.net core API {SignalR})\App.BL\bin\Debug\net6.0\App.DAL.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\App.BL\bin\Debug\net6.0\App.DAL.pdb
+E:\ASP Project\Laptop (.net core API {SignalR})\App.BL\obj\Debug\net6.0\App.BL.csproj.AssemblyReference.cache
+E:\ASP Project\Laptop (.net core API {SignalR})\App.BL\obj\Debug\net6.0\App.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP Project\Laptop (.net core API {SignalR})\App.BL\obj\Debug\net6.0\App.BL.AssemblyInfoInputs.cache
+E:\ASP Project\Laptop (.net core API {SignalR})\App.BL\obj\Debug\net6.0\App.BL.AssemblyInfo.cs
+E:\ASP Project\Laptop (.net core API {SignalR})\App.BL\obj\Debug\net6.0\App.BL.csproj.CoreCompileInputs.cache
+E:\ASP Project\Laptop (.net core API {SignalR})\App.BL\obj\Debug\net6.0\App.BL.csproj.CopyComplete
+E:\ASP Project\Laptop (.net core API {SignalR})\App.BL\obj\Debug\net6.0\App.BL.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\App.BL\obj\Debug\net6.0\refint\App.BL.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\App.BL\obj\Debug\net6.0\App.BL.pdb
+E:\ASP Project\Laptop (.net core API {SignalR})\App.BL\obj\Debug\net6.0\ref\App.BL.dll

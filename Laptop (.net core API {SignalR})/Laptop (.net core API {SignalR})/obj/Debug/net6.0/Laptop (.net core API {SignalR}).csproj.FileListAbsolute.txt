@@ -1,0 +1,68 @@
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\appsettings.Development.json
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\appsettings.json
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Laptop (.net core API {SignalR}).exe
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Laptop (.net core API {SignalR}).deps.json
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Laptop (.net core API {SignalR}).runtimeconfig.json
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Laptop (.net core API {SignalR}).dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Laptop (.net core API {SignalR}).pdb
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Humanizer.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\App.BL.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\App.DAL.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\App.BL.pdb
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\App.DAL.pdb
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\obj\Debug\net6.0\Laptop (.net core API {SignalR}).csproj.AssemblyReference.cache
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\obj\Debug\net6.0\Laptop (.net core API {SignalR}).GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\obj\Debug\net6.0\Laptop (.net core API {SignalR}).AssemblyInfoInputs.cache
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\obj\Debug\net6.0\Laptop (.net core API {SignalR}).AssemblyInfo.cs
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\obj\Debug\net6.0\Laptop (.net core API {SignalR}).csproj.CoreCompileInputs.cache
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\obj\Debug\net6.0\Laptop (.net core API {SignalR}).MvcApplicationPartsAssemblyInfo.cs
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\obj\Debug\net6.0\Laptop (.net core API {SignalR}).MvcApplicationPartsAssemblyInfo.cache
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\obj\Debug\net6.0\staticwebassets.build.json
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\obj\Debug\net6.0\staticwebassets.development.json
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\obj\Debug\net6.0\scopedcss\bundle\Laptop (.net core API {SignalR}).styles.css
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\obj\Debug\net6.0\Laptop (.net core API {SignalR}).csproj.CopyComplete
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\obj\Debug\net6.0\Laptop (.net core API {SignalR}).dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\obj\Debug\net6.0\refint\Laptop (.net core API {SignalR}).dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\obj\Debug\net6.0\Laptop (.net core API {SignalR}).pdb
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\obj\Debug\net6.0\Laptop (.net core API {SignalR}).genruntimeconfig.cache
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\obj\Debug\net6.0\ref\Laptop (.net core API {SignalR}).dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\AutoMapper.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\ASP Project\Laptop (.net core API {SignalR})\Laptop (.net core API {SignalR})\bin\Debug\net6.0\Laptop (.net core API {SignalR}).staticwebassets.runtime.json

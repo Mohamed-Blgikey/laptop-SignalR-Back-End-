@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "ceBXz2gg1ZvLWfk3olLWHeneiObnsoFuvRgzhUt8NZw=",
+  "Source": "Laptop (.net core API {SignalR})",
+  "BasePath": "_content/Laptop (.net core API {SignalR})",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Laptop (.net core API {SignalR})\\wwwroot",
+      "Source": "Laptop (.net core API {SignalR})",
+      "ContentRoot": "E:\\ASP Project\\Laptop (.net core API {SignalR})\\Laptop (.net core API {SignalR})\\wwwroot\\",
+      "BasePath": "_content/Laptop (.net core API {SignalR})",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\ASP Project\\Laptop (.net core API {SignalR})\\Laptop (.net core API {SignalR})\\wwwroot\\Img\\b82b16a8-c5db-4686-ace5-0664b1fe4da569541143_1712180538913986_8736608004331274240_n.jpg",
+      "SourceId": "Laptop (.net core API {SignalR})",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ASP Project\\Laptop (.net core API {SignalR})\\Laptop (.net core API {SignalR})\\wwwroot\\",
+      "BasePath": "_content/Laptop (.net core API {SignalR})",
+      "RelativePath": "Img/b82b16a8-c5db-4686-ace5-0664b1fe4da569541143_1712180538913986_8736608004331274240_n.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Img\\b82b16a8-c5db-4686-ace5-0664b1fe4da569541143_1712180538913986_8736608004331274240_n.jpg"
+    },
+    {
+      "Identity": "E:\\ASP Project\\Laptop (.net core API {SignalR})\\Laptop (.net core API {SignalR})\\wwwroot\\Img\\f6e11b25-8a79-466c-b83c-81b18ef3689770198968_1132620403596182_5942194233061408768_n.jpg",
+      "SourceId": "Laptop (.net core API {SignalR})",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ASP Project\\Laptop (.net core API {SignalR})\\Laptop (.net core API {SignalR})\\wwwroot\\",
+      "BasePath": "_content/Laptop (.net core API {SignalR})",
+      "RelativePath": "Img/f6e11b25-8a79-466c-b83c-81b18ef3689770198968_1132620403596182_5942194233061408768_n.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Img\\f6e11b25-8a79-466c-b83c-81b18ef3689770198968_1132620403596182_5942194233061408768_n.jpg"
+    }
+  ]
+}
